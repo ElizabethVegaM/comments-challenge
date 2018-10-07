@@ -1,0 +1,23 @@
+.container-fluid {
+  padding: 0 100px 50px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.publish, .comments, .comment-container {
+  padding: 20px;
+}
+
+.publish {
+  border: 1px solid rgb(175, 175, 175);
+  border-radius: 8px;
+  margin-bottom: 30px;
+}
+
+.comment-container {
+  border-bottom: 1px solid rgb(175, 175, 175);
+  margin-bottom: 15px;
+}
